@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>is-svg</artifactId>
-    <version>0.1.2</version>
+    <version>0.1.3-SNAPSHOT</version>
     <name>is-svg</name>
     <description>WebJar for is-svg</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/is-svg</url>
         <connection>scm:git:https://github.com/webjars/is-svg.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/is-svg.git</developerConnection>
-        <tag>is-svg-0.1.2</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
